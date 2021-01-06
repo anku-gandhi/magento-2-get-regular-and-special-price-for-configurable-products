@@ -1,0 +1,1 @@
+# magento-2-get-regular-and-special-price-for-configurable-products
